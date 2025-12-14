@@ -6,6 +6,7 @@ pandas
 
 # NLP & Text Processing
 nltk
+vaderSentiment  <-- ADD THIS LINE
 wordcloud
 
 # Dashboard & Visualization
