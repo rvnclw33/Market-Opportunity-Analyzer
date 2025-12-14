@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 tensorflow
 wordcloud
+openai>=1.0.0
