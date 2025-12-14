@@ -1,9 +1,22 @@
-streamlit
-pandas
+# Deep Learning & Machine Learning
+tensorflow
+scikit-learn
 numpy
+pandas
+
+# NLP & Text Processing
+nltk
+wordcloud
+
+# Dashboard & Visualization
+streamlit
+plotly
 matplotlib
 seaborn
-scikit-learn
-tensorflow
-wordcloud
-openai>=1.0.0
+
+# APIs & Environment
+openai
+python-dotenv
+
+# Testing
+pytest
