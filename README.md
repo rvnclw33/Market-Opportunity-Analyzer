@@ -2,6 +2,9 @@
 
 > **Transforming unstructured customer feedback into actionable product strategy using Deep Learning.**
 
+# Link to Live Demo: 
+https://rvnclw33-market-opportunity-analyzer-app-qarvl6.streamlit.app/
+
 ## 📖 Project Overview
 The **Market Opportunity Analyzer** is an end-to-end NLP pipeline designed to help Product Managers extract insights from thousands of raw reviews. 
 
